@@ -1,0 +1,106 @@
+.blogastro{
+  background-color: #D2E8D8;
+}
+
+.encabezado, .izquierda, .izquierda2{
+  background-color: #DDD1E3;
+}
+
+.izquierda, .izquierda2{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2px;
+  border: 2px dashed #2A3FA9;
+}
+
+.slogan{
+  background-color: #6164CB;
+
+}
+.imagen{
+    align-items: center;
+    align-content: center;
+    border: 2px inset #3333ff;
+}
+
+.imagenpulbi{
+  border-radius: 6px;
+  border: 2px solid #0A0D61;
+}
+.slogan{
+  text-align: right;
+}
+
+.izquierda2{
+  text-align: center;
+}
+
+.busqueda{
+  margin-top: 4%;
+}
+
+.barramenu{
+  text-align: center;
+  margin-top: 5%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.enlaces{
+  text-align: center;
+  margin-top: 5%;
+}
+ul.menu li{
+  text-align: center;
+}
+
+ul.barramenu li{
+  text-align: center;
+}
+
+ul.lista, ul.barramenu{
+  list-style: none;
+  text-align: center;
+}
+
+ul.lista li, ul.barramenu li {
+  background: #F4F4F4;
+  border-bottom: 1px solid #7C7C7C;
+  border-top: 1px solid #FFF;
+}
+
+#boton{
+  margin-left: 80%;
+}
+
+.imagenpubli{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#texto{
+  text-align: justify;
+}
+
+#comentarios{
+  margin-top: auto;
+  margin-bottom: auto;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+
+#tamal{
+  text-align: left;
+}
+
+.derecha1, .derecha2{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #D2E1E8;
+  border-radius: 6px;
+  border: 2px solid #7E8EDE;
+}
