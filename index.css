@@ -1,0 +1,90 @@
+ul.barra{
+  margin-top: 2%;
+  padding: 0%;
+}
+
+ul.barra li{
+  display: block;
+  float: left;
+  padding: 0% 5px;
+}
+
+.slogan, .encabezado, .contenido, .publicaciones{
+  margin: 0%;
+  padding: 0%;
+}
+
+.invisible{
+  color: #d32f2f;
+}
+
+.contenido{
+  background-color: #b0bec5;
+}
+
+.columna1{
+  margin-top: 3%;
+}
+
+.imagenes-contenido{
+  margin-left: 2%;
+  margin-right: 0%;
+}
+
+.logo{
+  width: 23%;
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+.imagenccentral{
+  margin: 0%;
+  padding: 0%;
+  content: 0%;
+}
+
+.imagenderecha{
+  margin-right: 2%;
+  margin-left: 0%;
+}
+
+.publicaciones{
+  background-color: #b0bec5;
+  margin-top: 0%;
+}
+
+.parrafo{
+  text-align: justify;
+  margin-right: 2%;
+}
+
+.columnaautor, .columnasitio{
+  background-color: white;
+  margin: 2%;
+}
+
+.autor{
+  margin-top: 4%;
+}
+
+.fotovallarta{
+  margin-top: 10%;
+}
+.columnasitio{
+  margin-left: 2%;
+  margin-left: 2%;
+  text-align: justify;
+}
+
+.puerto1{
+  margin-top: 5%;
+  margin-bottom: 0%;
+}
+.puerto2{
+  margin: 0%;
+  padding: 0%;
+}
+
+.formulario{
+  background-color: #4db6ac;
+}
